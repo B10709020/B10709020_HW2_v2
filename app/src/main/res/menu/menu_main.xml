@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ehappy.b10709020_hw2_v2.MainActivity">
+    <item
+        android:id="@+id/action_setting"
+        android:orderInCategory="100"
+        android:title="setting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="add"
+        app:showAsAction="never" />
+</menu>
